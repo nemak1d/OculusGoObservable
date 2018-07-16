@@ -44,4 +44,6 @@ Import the [UnityPackage](https://github.com/nemak1d/OculusGoObservable/blob/mas
 # License
 本リポジトリにおけるソースコードについては原則Public Domainを適用します。  
 ただし、UniRxにおけるライセンスは別途適用されている必要があります。  
+Apply the public domain in principle at source code in this repository.  
+However, must be applied license for UniRx.  
 Copyright (c) 2014 Yoshifumi Kawai https://github.com/neuecc/UniRx/blob/master/LICENSE
